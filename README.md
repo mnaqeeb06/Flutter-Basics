@@ -1,16 +1,26 @@
 # flutterbasics
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Basics Flutter App stateless	
+- Material App	
+- Scaffold	
+- App Bar	
+- Theme	
+- DebugPrint	
+- Stateful widget	
+- Bottom Navigation	
+- Navigation	
+- Sized box	
+- change text color	
+- Width at maximum possible size	
+- Margin	
+- Padding	
+- Container	
+- Elevated Button	
+- Outlined Button	
+- Text Button	
+- Row	
+- Center something in or column	
+- What if we want to detect click on a row	
+- Switch	
+- Scroll able page	
+- Add icon in app bar	
